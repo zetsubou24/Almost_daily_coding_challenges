@@ -1,2 +1,2 @@
 # Daily_coding_challenges
-Solving coding problems daily
+Solving coding problems daily.
